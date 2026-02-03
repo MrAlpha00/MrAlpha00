@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/MrAlpha00?logo=github&style=for-the
 <p align="center">
 <img src="assets/space-shooter.gif" />
 </p>
-
+![My GitHub Game](game.gif)
 ### Badges
 
 <b>My GitHub Stats</b>
