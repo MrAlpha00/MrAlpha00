@@ -1,3 +1,20 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/>
+
+<p align="center">
+  <img src="https://dummyimage.com/500x80/000/fff&text=Sai Prathyun Gupta+C" alt="C Sai Prathyun Gupta" />
+</p>
+
+<h3 align="center">AI Enthusiast |Open Source Contributor | Lifelong Learner</h3>
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+
+
+
+<p align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/Mayur-Pagote?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true" />
+</p>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mr Alpha
 =================================================================================================================================
