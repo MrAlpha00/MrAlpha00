@@ -119,11 +119,9 @@
 
 <div align="center">
 
-<!-- Main Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=MrAlpha00&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
-
-<!-- Streak FIXED (new domain) -->
-<img src="https://streak-stats.demolab.com?user=MrAlpha00&theme=tokyonight&hide_border=true" height="180"/>
+<!-- Top Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=MrAlpha00&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrAlpha00&theme=tokyonight&hide_border=true" height="180"/>
 
 <br/><br/>
 
@@ -132,7 +130,7 @@
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAlpha00&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAlpha00&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
 
 </td>
 
