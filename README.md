@@ -141,8 +141,25 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-6C63FF?style=for-the-badge)](http://suhasm.online)
-[![GitHub](https://img.shields.io/badge/GitHub-MrAlpha00-181717?style=for-the-badge\&logo=github)](https://github.com/MrAlpha00)
-[![YouTube](https://img.shields.io/badge/YouTube-@suhastech1-FF0000?style=for-the-badge\&logo=youtube)](https://www.youtube.com/@suhastech1)
+[![GitHub](https://img.shields.io/badge/GitHub-MrAlpha00-181717?style=for-the-badge&logo=github)](https://github.com/MrAlpha00)
+[![YouTube](https://img.shields.io/badge/YouTube-@suhastech1-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@suhastech1)
+
+<br/><br/>
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+91%209663866778-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919663866778)
+[![Email](https://img.shields.io/badge/Email-sm4686771%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sm4686771@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+91%209663866778-0A66C2?style=for-the-badge&logo=phone&logoColor=white)](#)
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mralpha00-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mralpha00)
+[![Instagram](https://img.shields.io/badge/Instagram-1.oyee-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/1.oyee)
+[![Facebook](https://img.shields.io/badge/Facebook-suhasthehero-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/suhasthehero)
+
+<br/><br/>
+
+[![Twitter](https://img.shields.io/badge/X-mralpha000-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mralpha000)
+[![Discord](https://img.shields.io/badge/Discord-mralpha00-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 
 </div>
 
