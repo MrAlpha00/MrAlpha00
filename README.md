@@ -121,7 +121,7 @@
 
 <!-- Top Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=MrAlpha00&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrAlpha00&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=MrAlpha00&theme=tokyonight&hide_border=true" height="180"/>
 
 <br/><br/>
 
@@ -136,14 +136,13 @@
 
 <td width="50%">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrAlpha00&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrAlpha00&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&hide_border=true&area=true" width="100%"/>
 
 </td>
 </tr>
 </table>
 
 </div>
----
 
 ## 🌐 Connect With Me
 
