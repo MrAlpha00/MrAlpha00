@@ -119,28 +119,16 @@
 
 <div align="center">
 
-<!-- Top Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=MrAlpha00&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MrAlpha00&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 <img src="https://streak-stats.demolab.com?user=MrAlpha00&theme=tokyonight&hide_border=true" height="180"/>
 
 <br/><br/>
 
-<!-- Languages + Graph -->
-<table>
-<tr>
-<td width="50%">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrAlpha00&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAlpha00&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+<br/><br/>
 
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrAlpha00&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&hide_border=true&area=true" width="100%"/>
-
-</td>
-</tr>
-</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrAlpha00&theme=tokyo-night&area=true&hide_border=true" width="95%"/>
 
 </div>
 
