@@ -119,16 +119,20 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MrAlpha00&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<!-- Main Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrAlpha00&theme=tokyonight" height="180"/>
 <img src="https://streak-stats.demolab.com?user=MrAlpha00&theme=tokyonight&hide_border=true" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrAlpha00&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<!-- Extra Cards (modern + stable) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrAlpha00&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrAlpha00&theme=tokyonight" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrAlpha00&theme=tokyo-night&area=true&hide_border=true" width="95%"/>
+<!-- Profile Details (Best looking one 🔥) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrAlpha00&theme=tokyonight" width="95%"/>
 
 </div>
 
